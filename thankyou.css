@@ -1,0 +1,6 @@
+body{background-color: black;}
+*{box-sizing: border-box;}
+#box1{width: 407px;height: 415px;position:fixed;background-color:hsl(213, 19%, 18%); margin-top: 171px; left: 450px; border-radius: 30px;padding-top: 43px; text-align: center;}
+div {width: 185px;height: 35px; color: hsl(25, 97%, 53%);background-color: hsl(224, 8%, 27%); border-radius: 30px;padding: 9px; margin-left:100px; margin-top: 30px;}
+p{color: white; font-size: 30px;}
+span{color: hsl(216, 12%, 54%)}

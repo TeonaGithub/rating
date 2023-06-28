@@ -1,0 +1,9 @@
+body{height: 720px; width: 1300px; background-color: black;}
+*{box-sizing: border-box;}
+
+#box1{width: 400px;height: 380px;position:fixed;background-color:hsl(213, 19%, 18%); margin-top: 171px; left: 510px; border-radius: 30px;padding-top: 30px; padding-left: 40px;}
+div{width: 43px; height: 43px; border-radius: 50px;  border: none; background-color:hsl(224, 8%, 27%);padding: 12px;}
+h1{color: white;}
+span {color: hsl(216, 12%, 54%);}
+input{background-color:hsl(224, 8%, 27%); width: 43px; height: 43px; border-radius: 50px;  border: none; color: hsl(216, 12%, 54%); }
+#submit{background-color: hsl(25, 97%, 53%); width: 320px; height: 40px; border: none;border-radius: 30px; color: white;letter-spacing: 2px;}
